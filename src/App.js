@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    //jsx - taki html ktory powstaje
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
